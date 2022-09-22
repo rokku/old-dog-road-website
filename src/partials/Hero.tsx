@@ -15,7 +15,7 @@ const Hero = () => (
       }
       description={
         <>
-We're a {' '}<span className="text-cyan-400">4-piece rock band</a>{' '} from South London, playing originals with an alternative + bluesy blend.
+We're a {' '}<span className="text-cyan-400">4-piece rock band</span>{' '} from South London, playing originals with an alternative + bluesy blend.
         </>
       }
       avatar={
