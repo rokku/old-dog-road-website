@@ -28,7 +28,7 @@ We're a {' '}<span className="text-cyan-400">4-piece rock band</span>{' '} from 
       }
       socialButtons={
         <>
-          <a href="/">
+          <a href="https://twitter.com/olddogroad">
             <HeroSocial
               src="/assets/images/twitter-icon.png"
               alt="Twitter icon"
@@ -38,12 +38,6 @@ We're a {' '}<span className="text-cyan-400">4-piece rock band</span>{' '} from 
             <HeroSocial
               src="/assets/images/facebook-icon.png"
               alt="Facebook icon"
-            />
-          </a>
-          <a href="/">
-            <HeroSocial
-              src="/assets/images/linkedin-icon.png"
-              alt="Linkedin icon"
             />
           </a>
           <a href="/">
